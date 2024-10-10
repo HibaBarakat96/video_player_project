@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202428510462",
+    "project_id": "video-encryption-14037",
+    "storage_bucket": "video-encryption-14037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202428510462:android:1fdfb418116542fcf975af",
+        "android_client_info": {
+          "package_name": "com.example.desktop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtlDCEfGhuDUgtyv0CSCKIhsBjJKA024"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
